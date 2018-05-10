@@ -13,7 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "curlrequest": "^1.0.1",
-    "jsonschema": "^1.2.4",
     "lodash": "^4.17.10",
     "npm": "^6.0.0"
   },
